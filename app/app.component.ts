@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 	  <a [routerLink]="['/about']">About</a>  
     <div>
        <router-outlet></router-outlet>
+      
     </div>
     `
 })

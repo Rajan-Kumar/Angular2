@@ -14,7 +14,7 @@ var AboutComponent = (function () {
     }
     AboutComponent = __decorate([
         core_1.Component({
-            selector: 'app-home',
+            // selector: '',
             template: "<h2>About page</h2> "
         }), 
         __metadata('design:paramtypes', [])
